@@ -1,0 +1,17 @@
+{
+  "posts": [
+    {
+      "first_name": "John",
+      "last_name": "Adam",
+      "job_title": "Blogger",
+      "id": 1
+    },
+    {
+      "first_name": "STEPHANIE",
+      "last_name": "VAPSYS",
+      "job_title": "Desenvolvedora",
+      "id": 3
+    }
+  ]
+}
+
